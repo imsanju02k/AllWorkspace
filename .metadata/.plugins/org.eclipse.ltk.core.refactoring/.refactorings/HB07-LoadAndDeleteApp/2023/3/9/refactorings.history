@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;in.ineuron.util&apos; to &apos;HB-10-GeneratorApp/src&apos;&#x0D;&#x0A;- Original project: &apos;HB07-LoadAndDeleteApp&apos;&#x0D;&#x0A;- Destination element: &apos;HB-10-GeneratorApp/src&apos;&#x0D;&#x0A;- Original element: &apos;HB07-LoadAndDeleteApp/src/in.ineuron.util&apos;" description="Copy package" destination="=HB-10-GeneratorApp/src" element1="/src&lt;in.ineuron.util" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1677860797344" version="1.0"/>
+</session>

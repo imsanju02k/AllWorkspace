@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;HB-20-InteractionMulipleDB&apos;&#x0D;&#x0A;- Original project: &apos;HB-20-InteractionMulipleDB&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     mysql-hibernate.cfg.xml&#x0D;&#x0A;     oracle-hibernate.cfg.xml" description="Delete elements" element1="src/in/ineuron/util/mysql-hibernate.cfg.xml" element2="src/in/ineuron/util/oracle-hibernate.cfg.xml" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1681828491574" subPackages="false" version="1.0"/>
+</session>

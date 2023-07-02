@@ -1,0 +1,11 @@
+127.0.0.1 - - [14/Mar/2023:05:31:58 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:05:32:00 +0530] "GET /MVCCrudApp/ HTTP/1.1" 404 767
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:05:32:01 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:05:32:09 +0530] "GET /MVCCrudApp/layout.html HTTP/1.1" 200 553
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:05:32:09 +0530] "GET /MVCCrudApp/header.html HTTP/1.1" 200 502
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:05:32:09 +0530] "GET /MVCCrudApp/menu.html HTTP/1.1" 200 436
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:05:32:09 +0530] "GET /MVCCrudApp/welcome.html HTTP/1.1" 200 299
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:05:32:09 +0530] "GET /MVCCrudApp/footer.html HTTP/1.1" 200 283
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:05:32:13 +0530] "GET /MVCCrudApp/addform.html HTTP/1.1" 200 602
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:05:32:29 +0530] "POST /MVCCrudApp/controller/addform HTTP/1.1" 200 417
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:05:33:04 +0530] "POST /MVCCrudApp/controller/addform HTTP/1.1" 200 417

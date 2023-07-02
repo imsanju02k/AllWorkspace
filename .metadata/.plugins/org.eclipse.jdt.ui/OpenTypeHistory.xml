@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=HibernateCrudApp/src&lt;in.sanju.dao{IStudentDao.java[IStudentDao" modifiers="513" timestamp="1677984745197"/>
+    <typeInfo handle="=HibernateCrudApp/src&lt;in.sanju.service{IStudentService.java[IStudentService" modifiers="513" timestamp="1677991330124"/>
+    <typeInfo handle="=HB-12-CustomJPAGeneratorApp/D:\/JARS\/hibernate-release-5.6.0.Final\/lib\/required\/hibernate-core-5.6.0.Final.jar&lt;org.hibernate.id(IdentifierGenerator.class[IdentifierGenerator" modifiers="1537" timestamp="1677684227132"/>
+    <typeInfo handle="=Hibernate-13-CompsiteIdApp/C:\/Program Files\/Java\/jdk-17.0.4.1\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1665237024054"/>
+</typeInfoHistroy>
